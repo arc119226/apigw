@@ -1,0 +1,1 @@
+grails prod run-app

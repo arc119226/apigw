@@ -1,0 +1,1 @@
+<g:include view="gwXml/edit.gsp" model="[isSave: false]"/>
